@@ -1,0 +1,164 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "Application/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Application.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Application.dll": {}
+        }
+      },
+      "Golbal/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Golbal.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Golbal.dll": {}
+        }
+      },
+      "OperationResult/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/OperationResult.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/OperationResult.dll": {}
+        }
+      },
+      "ShopManagementApplactionContract/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "OperationResult": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/ShopManagementApplactionContract.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ShopManagementApplactionContract.dll": {}
+        }
+      },
+      "ShopManagementDomin/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Golbal": "1.0.0",
+          "ShopManagementApplactionContract": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/ShopManagementDomin.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ShopManagementDomin.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Application/1.0.0": {
+      "type": "project",
+      "path": "../Application/Application.csproj",
+      "msbuildProject": "../Application/Application.csproj"
+    },
+    "Golbal/1.0.0": {
+      "type": "project",
+      "path": "../Golbal/Golbal.csproj",
+      "msbuildProject": "../Golbal/Golbal.csproj"
+    },
+    "OperationResult/1.0.0": {
+      "type": "project",
+      "path": "../OperationResult/OperationResult.csproj",
+      "msbuildProject": "../OperationResult/OperationResult.csproj"
+    },
+    "ShopManagementApplactionContract/1.0.0": {
+      "type": "project",
+      "path": "../ShopManagementApplactionContract/ShopManagementApplactionContract.csproj",
+      "msbuildProject": "../ShopManagementApplactionContract/ShopManagementApplactionContract.csproj"
+    },
+    "ShopManagementDomin/1.0.0": {
+      "type": "project",
+      "path": "../ShopManagementDomin/ShopManagementDomin.csproj",
+      "msbuildProject": "../ShopManagementDomin/ShopManagementDomin.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "Application >= 1.0.0",
+      "ShopManagementApplactionContract >= 1.0.0",
+      "ShopManagementDomin >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Administrator\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "F:\\projects\\MyShopProjects\\ShopManagementApplication\\ShopManagementApplication.csproj",
+      "projectName": "ShopManagementApplication",
+      "projectPath": "F:\\projects\\MyShopProjects\\ShopManagementApplication\\ShopManagementApplication.csproj",
+      "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
+      "outputPath": "F:\\projects\\MyShopProjects\\ShopManagementApplication\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "F:\\projects\\MyShopProjects\\Application\\Application.csproj": {
+              "projectPath": "F:\\projects\\MyShopProjects\\Application\\Application.csproj"
+            },
+            "F:\\projects\\MyShopProjects\\ShopManagementApplactionContract\\ShopManagementApplactionContract.csproj": {
+              "projectPath": "F:\\projects\\MyShopProjects\\ShopManagementApplactionContract\\ShopManagementApplactionContract.csproj"
+            },
+            "F:\\projects\\MyShopProjects\\ShopManagementDomin\\ShopManagementDomin.csproj": {
+              "projectPath": "F:\\projects\\MyShopProjects\\ShopManagementDomin\\ShopManagementDomin.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

@@ -1,0 +1,12 @@
+F:\projects\MyShopProjects\Golbal\bin\Debug\net6.0\Golbal.deps.json
+F:\projects\MyShopProjects\Golbal\bin\Debug\net6.0\Golbal.dll
+F:\projects\MyShopProjects\Golbal\bin\Debug\net6.0\ref\Golbal.dll
+F:\projects\MyShopProjects\Golbal\bin\Debug\net6.0\Golbal.pdb
+F:\projects\MyShopProjects\Golbal\obj\Debug\net6.0\Golbal.csproj.AssemblyReference.cache
+F:\projects\MyShopProjects\Golbal\obj\Debug\net6.0\Golbal.GeneratedMSBuildEditorConfig.editorconfig
+F:\projects\MyShopProjects\Golbal\obj\Debug\net6.0\Golbal.AssemblyInfoInputs.cache
+F:\projects\MyShopProjects\Golbal\obj\Debug\net6.0\Golbal.AssemblyInfo.cs
+F:\projects\MyShopProjects\Golbal\obj\Debug\net6.0\Golbal.csproj.CoreCompileInputs.cache
+F:\projects\MyShopProjects\Golbal\obj\Debug\net6.0\Golbal.dll
+F:\projects\MyShopProjects\Golbal\obj\Debug\net6.0\ref\Golbal.dll
+F:\projects\MyShopProjects\Golbal\obj\Debug\net6.0\Golbal.pdb

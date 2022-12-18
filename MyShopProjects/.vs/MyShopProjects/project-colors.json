@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "9a4a7c2b-80c2-40f0-9f09-87c4b259da67": {
+      "ProjectGuid": "9a4a7c2b-80c2-40f0-9f09-87c4b259da67",
+      "DisplayName": "ShopManagement",
+      "ColorIndex": 0
+    },
+    "7d724dc7-38f7-4c1d-bfea-b2c391f7cbb0": {
+      "ProjectGuid": "7d724dc7-38f7-4c1d-bfea-b2c391f7cbb0",
+      "DisplayName": "ShopManagementDomin",
+      "ColorIndex": 1
+    },
+    "7a2a22c8-15cf-4b66-a87d-bb0f0307ce45": {
+      "ProjectGuid": "7a2a22c8-15cf-4b66-a87d-bb0f0307ce45",
+      "DisplayName": "Golbal",
+      "ColorIndex": 2
+    },
+    "be2f4b60-f4a2-4e07-8889-27d03dd135e4": {
+      "ProjectGuid": "be2f4b60-f4a2-4e07-8889-27d03dd135e4",
+      "DisplayName": "ShopManagementApplication",
+      "ColorIndex": 3
+    },
+    "c39caeab-bcc4-4e75-8186-32a1b951272b": {
+      "ProjectGuid": "c39caeab-bcc4-4e75-8186-32a1b951272b",
+      "DisplayName": "ShopManagementApplactionContract",
+      "ColorIndex": 4
+    },
+    "cc1e7feb-e589-411e-bcce-e5281faab116": {
+      "ProjectGuid": "cc1e7feb-e589-411e-bcce-e5281faab116",
+      "DisplayName": "OperationResult",
+      "ColorIndex": 5
+    },
+    "3afa9e90-c187-4184-bb42-a8c929ef7974": {
+      "ProjectGuid": "3afa9e90-c187-4184-bb42-a8c929ef7974",
+      "DisplayName": "Application",
+      "ColorIndex": 6
+    }
+  },
+  "NextColorIndex": 7
+}

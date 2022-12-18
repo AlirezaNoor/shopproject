@@ -1,0 +1,12 @@
+F:\projects\MyShopProjects\OperationResult\bin\Debug\net6.0\OperationResult.deps.json
+F:\projects\MyShopProjects\OperationResult\bin\Debug\net6.0\OperationResult.dll
+F:\projects\MyShopProjects\OperationResult\bin\Debug\net6.0\ref\OperationResult.dll
+F:\projects\MyShopProjects\OperationResult\bin\Debug\net6.0\OperationResult.pdb
+F:\projects\MyShopProjects\OperationResult\obj\Debug\net6.0\OperationResult.csproj.AssemblyReference.cache
+F:\projects\MyShopProjects\OperationResult\obj\Debug\net6.0\OperationResult.GeneratedMSBuildEditorConfig.editorconfig
+F:\projects\MyShopProjects\OperationResult\obj\Debug\net6.0\OperationResult.AssemblyInfoInputs.cache
+F:\projects\MyShopProjects\OperationResult\obj\Debug\net6.0\OperationResult.AssemblyInfo.cs
+F:\projects\MyShopProjects\OperationResult\obj\Debug\net6.0\OperationResult.csproj.CoreCompileInputs.cache
+F:\projects\MyShopProjects\OperationResult\obj\Debug\net6.0\OperationResult.dll
+F:\projects\MyShopProjects\OperationResult\obj\Debug\net6.0\ref\OperationResult.dll
+F:\projects\MyShopProjects\OperationResult\obj\Debug\net6.0\OperationResult.pdb

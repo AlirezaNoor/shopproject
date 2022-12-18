@@ -1,0 +1,15 @@
+F:\projects\MyShopProjects\ShopManagementApplactionContract\bin\Debug\net6.0\ShopManagementApplactionContract.deps.json
+F:\projects\MyShopProjects\ShopManagementApplactionContract\bin\Debug\net6.0\ShopManagementApplactionContract.dll
+F:\projects\MyShopProjects\ShopManagementApplactionContract\bin\Debug\net6.0\ref\ShopManagementApplactionContract.dll
+F:\projects\MyShopProjects\ShopManagementApplactionContract\bin\Debug\net6.0\ShopManagementApplactionContract.pdb
+F:\projects\MyShopProjects\ShopManagementApplactionContract\bin\Debug\net6.0\OperationResult.dll
+F:\projects\MyShopProjects\ShopManagementApplactionContract\bin\Debug\net6.0\OperationResult.pdb
+F:\projects\MyShopProjects\ShopManagementApplactionContract\obj\Debug\net6.0\ShopManagementApplactionContract.csproj.AssemblyReference.cache
+F:\projects\MyShopProjects\ShopManagementApplactionContract\obj\Debug\net6.0\ShopManagementApplactionContract.GeneratedMSBuildEditorConfig.editorconfig
+F:\projects\MyShopProjects\ShopManagementApplactionContract\obj\Debug\net6.0\ShopManagementApplactionContract.AssemblyInfoInputs.cache
+F:\projects\MyShopProjects\ShopManagementApplactionContract\obj\Debug\net6.0\ShopManagementApplactionContract.AssemblyInfo.cs
+F:\projects\MyShopProjects\ShopManagementApplactionContract\obj\Debug\net6.0\ShopManagementApplactionContract.csproj.CoreCompileInputs.cache
+F:\projects\MyShopProjects\ShopManagementApplactionContract\obj\Debug\net6.0\ShopManagementApplactionContract.csproj.CopyComplete
+F:\projects\MyShopProjects\ShopManagementApplactionContract\obj\Debug\net6.0\ShopManagementApplactionContract.dll
+F:\projects\MyShopProjects\ShopManagementApplactionContract\obj\Debug\net6.0\ref\ShopManagementApplactionContract.dll
+F:\projects\MyShopProjects\ShopManagementApplactionContract\obj\Debug\net6.0\ShopManagementApplactionContract.pdb

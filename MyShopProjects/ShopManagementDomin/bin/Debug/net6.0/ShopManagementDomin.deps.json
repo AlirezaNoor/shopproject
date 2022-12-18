@@ -1,0 +1,60 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ShopManagementDomin/1.0.0": {
+        "dependencies": {
+          "Golbal": "1.0.0",
+          "ShopManagementApplactionContract": "1.0.0"
+        },
+        "runtime": {
+          "ShopManagementDomin.dll": {}
+        }
+      },
+      "Golbal/1.0.0": {
+        "runtime": {
+          "Golbal.dll": {}
+        }
+      },
+      "OperationResult/1.0.0": {
+        "runtime": {
+          "OperationResult.dll": {}
+        }
+      },
+      "ShopManagementApplactionContract/1.0.0": {
+        "dependencies": {
+          "OperationResult": "1.0.0"
+        },
+        "runtime": {
+          "ShopManagementApplactionContract.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ShopManagementDomin/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Golbal/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "OperationResult/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ShopManagementApplactionContract/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
